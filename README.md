@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ArchanaRoyA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# LandingPage
+Octanet Webdevelopment internship
 
-<!---
-ArchanaRoyA/ArchanaRoyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Jaya Travels
+
+![image](https://user-images.githubusercontent.com/97893456/236388180-46c7d5bb-acd1-4ae7-86b3-2859140728c2.png)
